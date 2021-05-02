@@ -1,0 +1,1 @@
+let array = [1, 2, 3, 4];for (i of array) {    console.log(i)}console.log("Terminei!")
